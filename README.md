@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xfVbwuLD)
 
-# CPBL Data Science
+# CPBL Data Science 本專案全程只使用Ｒ)
 
 本專案以 CPBL 比賽資料為基礎，建立資料分析與預測結果展示網頁。網頁分為兩個主題：資料分析與預測結果。資料分析主題目前從主客場角度觀察勝負現象；預測結果主題整合互動式 CPBL state prediction prototype。
 
